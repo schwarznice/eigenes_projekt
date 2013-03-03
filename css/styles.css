@@ -33,6 +33,10 @@ body {
   }
 }
 
+.modal-footer {
+  text-align: left;
+}
+
 #wrap > .container {
     padding-top: 60px;
   }
