@@ -36,3 +36,20 @@ body {
 #wrap > .container {
     padding-top: 60px;
   }
+
+#projects h3 {
+  color:red;
+}
+
+h3 {
+  color:green;
+}
+
+#about h3 {
+  color:blue;
+}
+
+#contact h3 {
+  color:yellow;
+}
+
